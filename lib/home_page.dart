@@ -206,7 +206,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Future<void> _launchURL() async {
-    const url = 'https://baidu.com';
+    const url = 'https://github.com/xiaoshangmin/ardl';
     final Uri uri = Uri.parse(url);
     await launchUrl(uri, mode: LaunchMode.externalApplication);
   }
