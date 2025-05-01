@@ -19,7 +19,8 @@ Ardl是一个方便易用的桌面应用程序，提供了一个简洁友好的�
 1. [FFmpeg](https://www.ffmpeg.org/download.html)
 2. [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases)
 
-上述软件下载后并确保它们具有执行权限,后面需要在软件里面设置好他们所在的目录
+上述软件下载后并确保它们具有执行权限,后面需要在软件里面设置好他们所在的目录  
+
 macos应该要执行
 ```
 chmod +x ffmpeg
